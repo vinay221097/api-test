@@ -1,1 +1,1 @@
-web: gunicorn app:ticketingsystem
+web: gunicorn ticketingsystem:app
